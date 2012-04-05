@@ -1,0 +1,5 @@
+all:
+  class: 'JsConnect'
+  client_id: '' # fill
+  client_secret: '' # fill
+  user_method: ~ # it must return correct array

@@ -1,0 +1,3 @@
+[submodule "lib/vendor/jsConnectClient"]
+	path = lib/vendor/jsConnectClient
+	url = git@github.com:66Ton99/jsConnectPHP.git

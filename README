@@ -1,0 +1,5 @@
+Symfony 1.4 plugin for Vanilla jsConnect Client
+
+It is using https://github.com/vanillaforums/jsConnectPHP library as a base for https://github.com/66Ton99/jsConnectPHP and depends on it
+
+It is written to work with sfDoctrineGuardPlugin
